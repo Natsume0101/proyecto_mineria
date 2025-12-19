@@ -1,0 +1,6 @@
+rank,latitude,longitude,confidence_score,alteration_type,priority,area_km2
+1,-30.2234,-71.0812,87.3,Mixed (Iron Oxide + Clay),High,2.4
+2,-30.2189,-71.0745,82.1,Iron Oxide Dominant,High,1.8
+3,-30.2301,-71.0891,76.5,Clay Dominant,Medium,1.2
+4,-30.2156,-71.0823,71.2,Mixed (Iron Oxide + Clay),Medium,0.9
+5,-30.2278,-71.0764,68.9,Iron Oxide Dominant,Medium,0.7
